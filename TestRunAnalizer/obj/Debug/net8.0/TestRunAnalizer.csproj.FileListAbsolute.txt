@@ -1,0 +1,17 @@
+C:\Users\ander\source\repos\TestRunAnalizer\TestRunAnalizer\bin\Debug\net8.0\TestRunAnalizer.exe
+C:\Users\ander\source\repos\TestRunAnalizer\TestRunAnalizer\bin\Debug\net8.0\TestRunAnalizer.deps.json
+C:\Users\ander\source\repos\TestRunAnalizer\TestRunAnalizer\bin\Debug\net8.0\TestRunAnalizer.runtimeconfig.json
+C:\Users\ander\source\repos\TestRunAnalizer\TestRunAnalizer\bin\Debug\net8.0\TestRunAnalizer.dll
+C:\Users\ander\source\repos\TestRunAnalizer\TestRunAnalizer\bin\Debug\net8.0\TestRunAnalizer.pdb
+C:\Users\ander\source\repos\TestRunAnalizer\TestRunAnalizer\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ander\source\repos\TestRunAnalizer\TestRunAnalizer\obj\Debug\net8.0\TestRunAnalizer.csproj.AssemblyReference.cache
+C:\Users\ander\source\repos\TestRunAnalizer\TestRunAnalizer\obj\Debug\net8.0\TestRunAnalizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\source\repos\TestRunAnalizer\TestRunAnalizer\obj\Debug\net8.0\TestRunAnalizer.AssemblyInfoInputs.cache
+C:\Users\ander\source\repos\TestRunAnalizer\TestRunAnalizer\obj\Debug\net8.0\TestRunAnalizer.AssemblyInfo.cs
+C:\Users\ander\source\repos\TestRunAnalizer\TestRunAnalizer\obj\Debug\net8.0\TestRunAnalizer.csproj.CoreCompileInputs.cache
+C:\Users\ander\source\repos\TestRunAnalizer\TestRunAnalizer\obj\Debug\net8.0\TestRunA.9B49DE2D.Up2Date
+C:\Users\ander\source\repos\TestRunAnalizer\TestRunAnalizer\obj\Debug\net8.0\TestRunAnalizer.dll
+C:\Users\ander\source\repos\TestRunAnalizer\TestRunAnalizer\obj\Debug\net8.0\refint\TestRunAnalizer.dll
+C:\Users\ander\source\repos\TestRunAnalizer\TestRunAnalizer\obj\Debug\net8.0\TestRunAnalizer.pdb
+C:\Users\ander\source\repos\TestRunAnalizer\TestRunAnalizer\obj\Debug\net8.0\TestRunAnalizer.genruntimeconfig.cache
+C:\Users\ander\source\repos\TestRunAnalizer\TestRunAnalizer\obj\Debug\net8.0\ref\TestRunAnalizer.dll

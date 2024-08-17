@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ander\\source\\repos\\TestRunAnalizer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0FEEB9-2703-4C60-8B4C-CD4512F97E3E}|TestRunAnalizer\\TestRunAnalizer.csproj|c:\\users\\ander\\source\\repos\\testrunanalizer\\testrunanalizer\\interfaces\\itestrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0FEEB9-2703-4C60-8B4C-CD4512F97E3E}|TestRunAnalizer\\TestRunAnalizer.csproj|solutionrelative:testrunanalizer\\interfaces\\itestrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0FEEB9-2703-4C60-8B4C-CD4512F97E3E}|TestRunAnalizer\\TestRunAnalizer.csproj|c:\\users\\ander\\source\\repos\\testrunanalizer\\testrunanalizer\\services\\csvexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0FEEB9-2703-4C60-8B4C-CD4512F97E3E}|TestRunAnalizer\\TestRunAnalizer.csproj|solutionrelative:testrunanalizer\\services\\csvexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0FEEB9-2703-4C60-8B4C-CD4512F97E3E}|TestRunAnalizer\\TestRunAnalizer.csproj|c:\\users\\ander\\source\\repos\\testrunanalizer\\testrunanalizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0FEEB9-2703-4C60-8B4C-CD4512F97E3E}|TestRunAnalizer\\TestRunAnalizer.csproj|solutionrelative:testrunanalizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0FEEB9-2703-4C60-8B4C-CD4512F97E3E}|TestRunAnalizer\\TestRunAnalizer.csproj|c:\\users\\ander\\source\\repos\\testrunanalizer\\testrunanalizer\\services\\testrunstatisticsextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0FEEB9-2703-4C60-8B4C-CD4512F97E3E}|TestRunAnalizer\\TestRunAnalizer.csproj|solutionrelative:testrunanalizer\\services\\testrunstatisticsextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0FEEB9-2703-4C60-8B4C-CD4512F97E3E}|TestRunAnalizer\\TestRunAnalizer.csproj|c:\\users\\ander\\source\\repos\\testrunanalizer\\testrunanalizer\\interfaces\\itestrunstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0FEEB9-2703-4C60-8B4C-CD4512F97E3E}|TestRunAnalizer\\TestRunAnalizer.csproj|solutionrelative:testrunanalizer\\interfaces\\itestrunstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0FEEB9-2703-4C60-8B4C-CD4512F97E3E}|TestRunAnalizer\\TestRunAnalizer.csproj|c:\\users\\ander\\source\\repos\\testrunanalizer\\testrunanalizer\\models\\testrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0FEEB9-2703-4C60-8B4C-CD4512F97E3E}|TestRunAnalizer\\TestRunAnalizer.csproj|solutionrelative:testrunanalizer\\models\\testrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0FEEB9-2703-4C60-8B4C-CD4512F97E3E}|TestRunAnalizer\\TestRunAnalizer.csproj|c:\\users\\ander\\source\\repos\\testrunanalizer\\testrunanalizer\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0FEEB9-2703-4C60-8B4C-CD4512F97E3E}|TestRunAnalizer\\TestRunAnalizer.csproj|solutionrelative:testrunanalizer\\models\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0FEEB9-2703-4C60-8B4C-CD4512F97E3E}|TestRunAnalizer\\TestRunAnalizer.csproj|c:\\users\\ander\\source\\repos\\testrunanalizer\\testrunanalizer\\models\\testrunstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0FEEB9-2703-4C60-8B4C-CD4512F97E3E}|TestRunAnalizer\\TestRunAnalizer.csproj|solutionrelative:testrunanalizer\\models\\testrunstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0FEEB9-2703-4C60-8B4C-CD4512F97E3E}|TestRunAnalizer\\TestRunAnalizer.csproj|c:\\users\\ander\\source\\repos\\testrunanalizer\\testrunanalizer\\services\\durationparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0FEEB9-2703-4C60-8B4C-CD4512F97E3E}|TestRunAnalizer\\TestRunAnalizer.csproj|solutionrelative:testrunanalizer\\services\\durationparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0FEEB9-2703-4C60-8B4C-CD4512F97E3E}|TestRunAnalizer\\TestRunAnalizer.csproj|c:\\users\\ander\\source\\repos\\testrunanalizer\\testrunanalizer\\services\\testrunjsonextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0FEEB9-2703-4C60-8B4C-CD4512F97E3E}|TestRunAnalizer\\TestRunAnalizer.csproj|solutionrelative:testrunanalizer\\services\\testrunjsonextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0FEEB9-2703-4C60-8B4C-CD4512F97E3E}|TestRunAnalizer\\TestRunAnalizer.csproj|c:\\users\\ander\\source\\repos\\testrunanalizer\\testrunanalizer\\interfaces\\icsvexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0FEEB9-2703-4C60-8B4C-CD4512F97E3E}|TestRunAnalizer\\TestRunAnalizer.csproj|solutionrelative:testrunanalizer\\interfaces\\icsvexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0FEEB9-2703-4C60-8B4C-CD4512F97E3E}|TestRunAnalizer\\TestRunAnalizer.csproj|c:\\users\\ander\\source\\repos\\testrunanalizer\\testrunanalizer\\interfaces\\ijsonextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0FEEB9-2703-4C60-8B4C-CD4512F97E3E}|TestRunAnalizer\\TestRunAnalizer.csproj|solutionrelative:testrunanalizer\\interfaces\\ijsonextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0FEEB9-2703-4C60-8B4C-CD4512F97E3E}|TestRunAnalizer\\TestRunAnalizer.csproj|c:\\users\\ander\\source\\repos\\testrunanalizer\\testrunanalizer\\testrunanalizer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C0FEEB9-2703-4C60-8B4C-CD4512F97E3E}|TestRunAnalizer\\TestRunAnalizer.csproj|solutionrelative:testrunanalizer\\testrunanalizer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0FEEB9-2703-4C60-8B4C-CD4512F97E3E}|TestRunAnalizer\\TestRunAnalizer.csproj|c:\\users\\ander\\source\\repos\\testrunanalizer\\testrunanalizer\\interfaces\\itestrunstatisticsextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0FEEB9-2703-4C60-8B4C-CD4512F97E3E}|TestRunAnalizer\\TestRunAnalizer.csproj|solutionrelative:testrunanalizer\\interfaces\\itestrunstatisticsextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0FEEB9-2703-4C60-8B4C-CD4512F97E3E}|TestRunAnalizer\\TestRunAnalizer.csproj|c:\\users\\ander\\source\\repos\\testrunanalizer\\testrunanalizer\\interfaces\\idurationparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0FEEB9-2703-4C60-8B4C-CD4512F97E3E}|TestRunAnalizer\\TestRunAnalizer.csproj|solutionrelative:testrunanalizer\\interfaces\\idurationparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0FEEB9-2703-4C60-8B4C-CD4512F97E3E}|TestRunAnalizer\\TestRunAnalizer.csproj|c:\\users\\ander\\source\\repos\\testrunanalizer\\testrunanalizer\\interfaces\\itest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0FEEB9-2703-4C60-8B4C-CD4512F97E3E}|TestRunAnalizer\\TestRunAnalizer.csproj|solutionrelative:testrunanalizer\\interfaces\\itest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CsvExporter.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\source\\repos\\TestRunAnalizer\\TestRunAnalizer\\Services\\CsvExporter.cs",
+              "RelativeDocumentMoniker": "TestRunAnalizer\\Services\\CsvExporter.cs",
+              "ToolTip": "C:\\Users\\ander\\source\\repos\\TestRunAnalizer\\TestRunAnalizer\\Services\\CsvExporter.cs",
+              "RelativeToolTip": "TestRunAnalizer\\Services\\CsvExporter.cs",
+              "ViewState": "AgIAABkAAAAAzszMzMwFwDQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T23:41:37.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICsvExporter.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\source\\repos\\TestRunAnalizer\\TestRunAnalizer\\Interfaces\\ICsvExporter.cs",
+              "RelativeDocumentMoniker": "TestRunAnalizer\\Interfaces\\ICsvExporter.cs",
+              "ToolTip": "C:\\Users\\ander\\source\\repos\\TestRunAnalizer\\TestRunAnalizer\\Interfaces\\ICsvExporter.cs",
+              "RelativeToolTip": "TestRunAnalizer\\Interfaces\\ICsvExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T23:39:08.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestRunJsonExtractor.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\source\\repos\\TestRunAnalizer\\TestRunAnalizer\\Services\\TestRunJsonExtractor.cs",
+              "RelativeDocumentMoniker": "TestRunAnalizer\\Services\\TestRunJsonExtractor.cs",
+              "ToolTip": "C:\\Users\\ander\\source\\repos\\TestRunAnalizer\\TestRunAnalizer\\Services\\TestRunJsonExtractor.cs",
+              "RelativeToolTip": "TestRunAnalizer\\Services\\TestRunJsonExtractor.cs",
+              "ViewState": "AgIAAAwAAAAAAgAAAAABwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T22:24:25.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITestRunStatistics.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\source\\repos\\TestRunAnalizer\\TestRunAnalizer\\Interfaces\\ITestRunStatistics.cs",
+              "RelativeDocumentMoniker": "TestRunAnalizer\\Interfaces\\ITestRunStatistics.cs",
+              "ToolTip": "C:\\Users\\ander\\source\\repos\\TestRunAnalizer\\TestRunAnalizer\\Interfaces\\ITestRunStatistics.cs",
+              "RelativeToolTip": "TestRunAnalizer\\Interfaces\\ITestRunStatistics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:43:31.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DurationParser.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\source\\repos\\TestRunAnalizer\\TestRunAnalizer\\Services\\DurationParser.cs",
+              "RelativeDocumentMoniker": "TestRunAnalizer\\Services\\DurationParser.cs",
+              "ToolTip": "C:\\Users\\ander\\source\\repos\\TestRunAnalizer\\TestRunAnalizer\\Services\\DurationParser.cs",
+              "RelativeToolTip": "TestRunAnalizer\\Services\\DurationParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:24:52.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ITestRun.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\source\\repos\\TestRunAnalizer\\TestRunAnalizer\\Interfaces\\ITestRun.cs",
+              "RelativeDocumentMoniker": "TestRunAnalizer\\Interfaces\\ITestRun.cs",
+              "ToolTip": "C:\\Users\\ander\\source\\repos\\TestRunAnalizer\\TestRunAnalizer\\Interfaces\\ITestRun.cs",
+              "RelativeToolTip": "TestRunAnalizer\\Interfaces\\ITestRun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:22:20.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestRunStatisticsExtractor.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\source\\repos\\TestRunAnalizer\\TestRunAnalizer\\Services\\TestRunStatisticsExtractor.cs",
+              "RelativeDocumentMoniker": "TestRunAnalizer\\Services\\TestRunStatisticsExtractor.cs",
+              "ToolTip": "C:\\Users\\ander\\source\\repos\\TestRunAnalizer\\TestRunAnalizer\\Services\\TestRunStatisticsExtractor.cs",
+              "RelativeToolTip": "TestRunAnalizer\\Services\\TestRunStatisticsExtractor.cs",
+              "ViewState": "AgIAAA0AAAAgAAAAAMAgwCcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:12:12.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TestRunStatistics.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\source\\repos\\TestRunAnalizer\\TestRunAnalizer\\Models\\TestRunStatistics.cs",
+              "RelativeDocumentMoniker": "TestRunAnalizer\\Models\\TestRunStatistics.cs",
+              "ToolTip": "C:\\Users\\ander\\source\\repos\\TestRunAnalizer\\TestRunAnalizer\\Models\\TestRunStatistics.cs",
+              "RelativeToolTip": "TestRunAnalizer\\Models\\TestRunStatistics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T20:58:03.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\source\\repos\\TestRunAnalizer\\TestRunAnalizer\\Models\\Test.cs",
+              "RelativeDocumentMoniker": "TestRunAnalizer\\Models\\Test.cs",
+              "ToolTip": "C:\\Users\\ander\\source\\repos\\TestRunAnalizer\\TestRunAnalizer\\Models\\Test.cs",
+              "RelativeToolTip": "TestRunAnalizer\\Models\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T20:19:28.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\source\\repos\\TestRunAnalizer\\TestRunAnalizer\\Program.cs",
+              "RelativeDocumentMoniker": "TestRunAnalizer\\Program.cs",
+              "ToolTip": "C:\\Users\\ander\\source\\repos\\TestRunAnalizer\\TestRunAnalizer\\Program.cs",
+              "RelativeToolTip": "TestRunAnalizer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T20:14:45.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestRun.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\source\\repos\\TestRunAnalizer\\TestRunAnalizer\\Models\\TestRun.cs",
+              "RelativeDocumentMoniker": "TestRunAnalizer\\Models\\TestRun.cs",
+              "ToolTip": "C:\\Users\\ander\\source\\repos\\TestRunAnalizer\\TestRunAnalizer\\Models\\TestRun.cs",
+              "RelativeToolTip": "TestRunAnalizer\\Models\\TestRun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T20:23:20.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITestRunStatisticsExtractor.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\source\\repos\\TestRunAnalizer\\TestRunAnalizer\\Interfaces\\ITestRunStatisticsExtractor.cs",
+              "RelativeDocumentMoniker": "TestRunAnalizer\\Interfaces\\ITestRunStatisticsExtractor.cs",
+              "ToolTip": "C:\\Users\\ander\\source\\repos\\TestRunAnalizer\\TestRunAnalizer\\Interfaces\\ITestRunStatisticsExtractor.cs",
+              "RelativeToolTip": "TestRunAnalizer\\Interfaces\\ITestRunStatisticsExtractor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:57:04.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IJsonExtractor.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\source\\repos\\TestRunAnalizer\\TestRunAnalizer\\Interfaces\\IJsonExtractor.cs",
+              "RelativeDocumentMoniker": "TestRunAnalizer\\Interfaces\\IJsonExtractor.cs",
+              "ToolTip": "C:\\Users\\ander\\source\\repos\\TestRunAnalizer\\TestRunAnalizer\\Interfaces\\IJsonExtractor.cs",
+              "RelativeToolTip": "TestRunAnalizer\\Interfaces\\IJsonExtractor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T22:19:15.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDurationParser.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\source\\repos\\TestRunAnalizer\\TestRunAnalizer\\Interfaces\\IDurationParser.cs",
+              "RelativeDocumentMoniker": "TestRunAnalizer\\Interfaces\\IDurationParser.cs",
+              "ToolTip": "C:\\Users\\ander\\source\\repos\\TestRunAnalizer\\TestRunAnalizer\\Interfaces\\IDurationParser.cs",
+              "RelativeToolTip": "TestRunAnalizer\\Interfaces\\IDurationParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:24:27.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ITest.cs",
+              "DocumentMoniker": "C:\\Users\\ander\\source\\repos\\TestRunAnalizer\\TestRunAnalizer\\Interfaces\\ITest.cs",
+              "RelativeDocumentMoniker": "TestRunAnalizer\\Interfaces\\ITest.cs",
+              "ToolTip": "C:\\Users\\ander\\source\\repos\\TestRunAnalizer\\TestRunAnalizer\\Interfaces\\ITest.cs",
+              "RelativeToolTip": "TestRunAnalizer\\Interfaces\\ITest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:05:00.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TestRunAnalizer",
+              "DocumentMoniker": "C:\\Users\\ander\\source\\repos\\TestRunAnalizer\\TestRunAnalizer\\TestRunAnalizer.csproj",
+              "RelativeDocumentMoniker": "TestRunAnalizer\\TestRunAnalizer.csproj",
+              "ToolTip": "C:\\Users\\ander\\source\\repos\\TestRunAnalizer\\TestRunAnalizer\\TestRunAnalizer.csproj",
+              "RelativeToolTip": "TestRunAnalizer\\TestRunAnalizer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-16T20:18:23.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
