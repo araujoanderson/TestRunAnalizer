@@ -68,7 +68,13 @@ namespace TestRunAnalizer.Services
                     Console.WriteLine($"path  not found at: {filePath}");
                   throw new FileNotFoundException($"Path not found at: {filePath} check the directory exists");
                 }
-            }   
+            }
+
+            if (!File.Exists(filePath))
+            {
+                throw new FileNotFoundException($"The JSON file was not found at: {filePath}");
+            }
+
             return filePath;
         }
     }

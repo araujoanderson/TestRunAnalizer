@@ -1,0 +1,36 @@
+{
+    "Id": 1,
+    "TotalRunDuration": "PT1H25M33S",
+    "TotalTestCount": 4,
+    "ExecutionDate": "02/28/24",
+    "Tests": [
+      {
+        "Id": 1,
+        "Title": "Login with correct user",
+        "Result": "passed",
+        "Duration": "PT2M45S",
+        "ExecutionStartDate": "13:19:10"
+      },
+      {
+        "Id": 2,
+        "Title": "Login with incorrect user",
+        "Result": "passed",
+        "Duration": "PT2M50S",
+        "ExecutionStartDate": "13:20:10"
+      },
+      {
+        "Id": 3,
+        "Title": "Login with admin user and Navigate to admin dashboard",
+        "Result": "passed",
+        "Duration": "PT4M50S",
+        "ExecutionStartDate": "13:21:10"
+      },
+      {
+        "Id": 4,
+        "Title": "Login with non-admin user and try to navigate to admin dashboard",
+        "Result": "failed",
+        "Duration": "PT2M55S",
+        "ExecutionStartDate": "13:25:10"
+      }
+    ]
+}
