@@ -12,12 +12,14 @@ namespace TestRunAnalizer.Services
 {
     public class TestRunJsonExtractor : IJsonExtractor
     {
-        public ITestRun extractJson(string filePath)
+        public ITestRun extractJson(IFileHandler fileHandler)
         {
-            //checking filePath variable is not null and the file exists
-            if (filePath == null) throw new ArgumentNullException($"filePath is null, please review: {filePath}");
+            string filePath =fileHandler.GetJsonFilePath();
+    
+            ////checking filePath variable is not null and the file exists
+            //if (filePath == null) throw new ArgumentNullException($"filePath is null, please review: {filePath}");
 
-            if (!File.Exists(filePath)) throw new FileNotFoundException("File does not exist or could not be found, please review");
+            //if (!File.Exists(filePath)) throw new FileNotFoundException("File does not exist or could not be found, please review");
 
             string jsonData = File.ReadAllText(filePath);
 

@@ -10,19 +10,16 @@ namespace TestRunAnalizer.Services
 {
     public class CsvExporter : ICsvExporter
     {
-        public void ExportTestRunStatistics(ITestRunStatistics testRunStatistics, string filePath)
+        public void ExportTestRunStatistics(ITestRunStatistics testRunStatistics, IFileHandler fileHandler)
         {
             if (testRunStatistics == null) 
             {
                 throw new ArgumentNullException($"{nameof(testRunStatistics)} variable is null");
             }
 
-            if (filePath == null) 
-            {
-                throw new ArgumentNullException($"{nameof(testRunStatistics)} variable is null");
-            }
+            var filePath = fileHandler.GetCSVFilePath();
 
-            //if (!File.isV(filePath)) 
+            //if (!File.Exists(filePath)) 
             //{
             //    throw new FileNotFoundException(filePath);
             //}

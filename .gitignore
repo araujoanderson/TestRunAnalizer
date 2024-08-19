@@ -1,0 +1,19 @@
+# Ignore the bin and obj directories in a C# project
+bin/
+obj/
+.vs/
+# Ignore user-specific files
+*.user
+*.suo
+
+
+# Ignore build outputs
+*.dll
+*.exe
+
+# Ignore logs
+*.log
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db

@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace TestRunAnalizer.Interfaces
 {
-    public interface IJsonExtractor
+    public interface IFileHandler
     {
-        public ITestRun extractJson(IFileHandler fileHandler);
+        public string GetJsonFilePath();
+        public string GetCSVFilePath();
     }
 }
