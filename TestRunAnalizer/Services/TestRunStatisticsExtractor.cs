@@ -1,11 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using TestRunAnalizer.Interfaces;
+﻿using TestRunAnalizer.Interfaces;
 using TestRunAnalizer.Models;
-using static System.Net.Mime.MediaTypeNames;
 
 namespace TestRunAnalizer.Services
 {
@@ -17,7 +11,6 @@ namespace TestRunAnalizer.Services
         {
             _testRun = testRun;
             _parser = durationParser;
-        
         }
 
         public ITestRunStatistics ExtractStatistics()
