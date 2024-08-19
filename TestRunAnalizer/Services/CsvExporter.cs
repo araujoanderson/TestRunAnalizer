@@ -19,17 +19,12 @@ namespace TestRunAnalizer.Services
 
             var filePath = fileHandler.GetCSVFilePath();
 
-            //if (!File.Exists(filePath)) 
-            //{
-            //    throw new FileNotFoundException(filePath);
-            //}
-
             var csvBody = new StringBuilder();
 
-            // Add the header for statistics
+            //Adding the header for statistics
             csvBody.AppendLine("Total Tests,Passed Tests,Failed Tests,Total Duration,Average Duration,Max Duration,Min Duration,Execution Date");
 
-            // Add statistics row
+            //Adding statistics row
             csvBody.AppendLine($"{testRunStatistics.TotalTests}," +
                                   $"{testRunStatistics.PassedTests}," +
                                   $"{testRunStatistics.FailedTests}," +
@@ -39,13 +34,13 @@ namespace TestRunAnalizer.Services
                                   $"{testRunStatistics.MinDuration}," +
                                   $"{testRunStatistics.ExecutionDate}");
 
-            // Add an empty line for separation
+            //Adding an empty line for separation
             csvBody.AppendLine();
 
-            // Add the header for individual test details
+            //Adding the header for individual test details
             csvBody.AppendLine("Title,ID,Result,Duration,Execution Start Date");
 
-            // Add each test as a row
+            //Adding each test as a row
             foreach (var test in testRunStatistics.Tests)
             {
                 csvBody.AppendLine($"{test.Title}," +
@@ -55,7 +50,7 @@ namespace TestRunAnalizer.Services
                                       $"{test.ExecutionStartDate}");
             }
 
-            // Write the CSV content to the file
+            //Writing the CSV content to the file
             File.WriteAllText(filePath, csvBody.ToString());
         }
     }
